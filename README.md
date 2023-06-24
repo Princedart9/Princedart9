@@ -3,7 +3,7 @@
 > "_Welcome to my GitHub repository!_ Here you will find information about my skills, projects, and contact details"
  
 - 👀 A Passionate Programmer  and a code Enthusiast  , Graduated from ***APJ Abdul Kalama Technical University***, who believes in solving the Real World Problems using Programming and Software.
-- Currently working as <ins>Software Engineer</ins> , Improving Skills and excelling  in the profession by ensure high-quality software deliverables.
+- 💻 Currently working as <ins>Software Engineer</ins> , Improving Skills and excelling  in the profession by ensure high-quality software deliverables.
 
 
 
