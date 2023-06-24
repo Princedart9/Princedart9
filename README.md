@@ -1,6 +1,12 @@
-- 👋 Hi there, I’m Prince Kumar.
-- 👀 A Passionate Programmer  and a code Enthusiast  , Graduated from APJ Abdul Kalama Technical University, who believes in solving the Real World Problems using Programming and Software. Currently working as Software Engineer, Improving Skills and excelling  in the profession
+# About Me
+- 👋 Hi there, I’m **Prince Kumar**.
+> "_Welcome to my GitHub repository!_ Here you will find information about my skills, projects, and contact details"
  
+- 👀 A Passionate Programmer  and a code Enthusiast  , Graduated from ***APJ Abdul Kalama Technical University***, who believes in solving the Real World Problems using Programming and Software.
+- Currently working as <ins>Software Engineer</ins> , Improving Skills and excelling  in the profession by ensure high-quality software deliverables.
+
+
+
 - 🌱 I’m working on Spring Security Project.
 
 ## Projects
@@ -26,7 +32,7 @@ Using: Spring Boot, Spring Security, hibernate, Thymeleaf
 - JavaScript • Angular
 - jasper Report
 
-## Contact
+## Contact Details
  - email ID: princekumar5u@gmail.com
  - linkedin: www.linkedin.com/in/princedat9
 
